@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+    font-family: Rubik;
+}
+body{
+    background-image: url(./images/Benedict+Canyon+Beverly+Hills+indoor+outdoor+modern+home+opens+sliding+glass+doors+onto+a+luxury+pool+terrace.jpg);
+    background-size: cover;
+}
+.nav-icon{
+    border: 1px solid #B5BCBE;
+    width: 2%;
+    padding: 5px 5px;
+    display: flex;
+    float: left;
+    margin-top: 35px;
+    margin-left: 40px;
+}
+#square{ 
+border:1px solid #B5BCBE;
+color:#B5BCBE;
+font-size: 25px;
+padding: 5px;
+margin-left: 40px;
+margin-top: 40px;
+border-radius: 3px;
+}
+ul{
+    margin-top: -25px;
+}
+nav{
+    height: fit-content;
+}
+nav ul li{
+    display: inline-block;
+    margin-left: 110px;
+    margin-top: -30px;
+    
+}
+nav ul li a{
+    color: white;
+    text-decoration: none;
+    display: inline;
+}
+#right{
+    color: white;
+    margin-left: 5px;
+}
+#login{
+    margin-left: 150px;
+}
+#sign{
+    padding: 5px 15px;
+    border: 1px solid #B2FB3E;
+    background-color: #B2FB3E;
+    border-radius: 15px;
+    color: black;
+    font-weight: bold;
+
+}
+#before{
+margin-top: 150px;
+line-height: 50px;
+text-align: center;
+color: white;
+}
+#before h2{
+    text-align: center;
+    color: white;
+}
+#before p{
+    color: white;
+}
+p{
+    font-size: 50px;
+}
+#now p{
+    font-size: 20px;
+    color: white;
+    margin-left: 40px;
+}
+#button{
+    margin-left: 40px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: #26303A;
+    border: none;
+    color: white;
+}
+.search{
+    margin-left: 540px;
+    padding: 10px 20px;
+    border-radius: 24px;
+    background-color:  #B2FB3E;
+    border: none;
+    color: black;
+    font-weight: bold;
+}
+.search i{
+    margin-left: 10px;
+}
+#stock{
+    width: 6%;
+    height: 3%;
+    border-radius: 90%;
+}
